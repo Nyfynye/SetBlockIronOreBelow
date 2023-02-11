@@ -1,0 +1,8 @@
+name: SetBlockIronOreBelowCommand
+main: a.nyfynye.setblockironorebelowcommand.MainClass
+version: 1.0
+api-version: 1.19
+commands:
+  setblockironorebelow:
+    description: Sets the block below to an iron ore.
+    usage: /<command>
